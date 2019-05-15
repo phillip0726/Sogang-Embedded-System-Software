@@ -849,9 +849,6 @@ asmlinkage long sys_open_by_handle_at(int mountdirfd,
 				      int flags);
 asmlinkage long sys_setns(int fd, int nstype);
 ////////////////new systemcall////////////////////////
-asmlinkage int sys_newcall(int a);
-asmlinkage int sys_newcall2(struct mystruct *dd);
-asmlinkage int sys_newcall3(int a, int b);
 asmlinkage int convert_input(unsigned int interval, unsigned int num, unsigned int option);
 
 #endif
