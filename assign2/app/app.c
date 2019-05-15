@@ -12,7 +12,7 @@
 #include <sys/stat.h>
 
 #define PARAM_NUM 4              // passing parameter number
-#define CONVERT_INPUT 379        // my syscall number
+#define CONVERT_INPUT 376        // my syscall number
 #define DEVICE_NAME "/dev/dev_driver"
 #define MAJOR_NUM 242
 #define IOCTL_WRITE _IOW(MAJOR_NUM, 0, char *)
