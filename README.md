@@ -4,10 +4,18 @@
 > Achro-i.MX6Q
 
 ## Assign1 (2019.04.15)
-> Implement IPC communication between processes </br>
-> Device control using device driver
-
+```
+Implement IPC communication between processes
+Device control using device driver
+```
 ## Assign2 (2019.05.14)
-> Implement new system call </br>
-> Implement a module that controls multiple devices </br>
-> Implement kernel timer
+```
+Implement new system call
+Implement a module that controls multiple devices
+Implement kernel timer
+```
+## Assign3 (2019.05.29)
+```
+Implement a stopwatch program
+Implement a my own interrupt handler
+```
