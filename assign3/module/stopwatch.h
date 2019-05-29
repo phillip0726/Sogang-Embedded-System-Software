@@ -1,0 +1,22 @@
+#include <linux/module.h>
+#include <linux/fs.h>
+#include <linux/init.h>
+#include <linux/slab.h>
+#include <linux/platform_device.h>
+#include <linux/delay.h>
+
+#include <asm/io.h>
+#include <asm/uaccess.h>
+#include <linux/kernel.h>
+#include <linux/ioport.h>
+#include <linux/module.h>
+#include <linux/fs.h>
+#include <linux/init.h>
+#include <linux/ioctl.h>
+#include <linux/version.h>
+#include <linux/interrupt.h>
+#include <mach/gpio.h>
+#include <asm/gpio.h>
+#include <linux/wait.h>
+#include <linux/cdev.h>
+#include <linux/timer.h>
