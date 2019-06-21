@@ -19,3 +19,9 @@ Implement kernel timer
 Implement a stopwatch program
 Implement a my own interrupt handler
 ```
+
+## Assign4 (2019.06.07)
+```
+Implement a puzzle game (Android App)
+Implement Game Timer(Service)
+```
