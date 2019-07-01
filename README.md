@@ -25,3 +25,10 @@ Implement a my own interrupt handler
 Implement a puzzle game (Android App)
 Implement Game Timer(Service)
 ```
+
+## Project (2019.06.28)
+```
+Android English-Korean dictionary Application (Android App)
+Using JNI
+Manual : 
+```
