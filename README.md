@@ -30,5 +30,5 @@ Implement Game Timer(Service)
 ```
 Android English-Korean dictionary Application (Android App)
 Using JNI
-Manual : https://github.com/phillip0726/Sogang-Embedded-System-Software
+Manual : < https://github.com/phillip0726/Sogang-Embedded-System-Software >
 ```
