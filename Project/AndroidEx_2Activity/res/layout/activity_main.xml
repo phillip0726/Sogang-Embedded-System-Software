@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+   
+    <ImageButton
+        android:id="@+id/newactivity1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@drawable/btn_search"
+        android:scaleType="fitCenter"
+        android:background="@drawable/btn_search_color"
+        android:padding="0sp"/>
+   
+     <ImageButton
+        android:id="@+id/newactivity2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@drawable/btn_practice"
+        android:scaleType="fitCenter"
+        android:background="@drawable/btn_practice_color"
+        android:padding="0sp"/>
+ 
+     <ImageButton
+        android:id="@+id/newactivity3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@drawable/btn_camera"
+        android:scaleType="fitCenter"
+        android:background="@drawable/btn_camera_color"
+        android:padding="0sp"/>
+   
+</LinearLayout> 
+
+ 
